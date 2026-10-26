@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.ipynb
+*.csv
+.git
+.env
+colab_shrink_cell.py
+express-forecast-route.js
+README.md
